@@ -14,6 +14,8 @@ future: true
 RSS: true
 github_username: wkazisan
 linkedin_username: wkazisan
+twitter_username: wkazisanz
+facebook_username: feo.y.hermoso
 
 # Build settings
 highlighter: rouge
