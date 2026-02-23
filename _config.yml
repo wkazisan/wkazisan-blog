@@ -1,6 +1,6 @@
 # Site settings
-title: Waiz Kuruni Ahmed Zisan
-SEOTitle: Zisan | Diploma Electrical Engineer Bangladesh
+title: Zisan's Blog
+SEOTitle: Engineer | Zisan's Blog
 header-img: img/home-bg.jpg
 email: wkazisan@gmail.com
 description: "Diploma Electrical Engineer from Bangladesh with practical experience in industrial maintenance, motor control systems, and automation."
@@ -10,10 +10,15 @@ baseurl: ""
 
 future: true
 
-# SNS settings
-RSS: true
-github_username: wkazisan
+# Author & Social Settings
+
+author: wkazisan
+facebook_username: feo.y.hermoso
 linkedin_username: wkazisan
+github_username: wkazisan
+
+# SNS settings
+RSS: truesan
 
 # Build settings
 highlighter: rouge
@@ -52,7 +57,7 @@ ga_domain:
 
 # Sidebar settings
 sidebar: true
-sidebar-about-description: "Diploma Electrical Engineer | Industrial Maintenance | Motor Control Systems | PLC Basics"
+sidebar-about-description: "Fifteen seconds. That's all it takes to completely change everything about a person. Fifteen"
 sidebar-avatar: img/avatar-zisan.jpg
 
 # Featured Tags
@@ -68,3 +73,6 @@ page-mathjax: false
 
 # Friends
 friends: []
+
+# Author settings
+Author: wkazisan

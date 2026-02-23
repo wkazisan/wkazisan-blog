@@ -1,0 +1,27 @@
+---
+layout: null
+sitemap: false
+---
+User-agent: *
+Allow: /
+
+# Sitemap Location
+Sitemap: {{ site.url }}/sitemap.xml
+
+# Disallow technical folders
+Disallow: /node_modules/
+Disallow: /less/
+Disallow: /_includes/
+Disallow: /_layouts/
+Disallow: /_config.yml
+Disallow: /Gemfile
+Disallow: /package.json
+Disallow: /Gruntfile.js
+
+# Allow important pages
+Allow: /about/
+Allow: /archive/
+Allow: /tags/
+
+# Crawl Delay
+Crawl-delay: 10
