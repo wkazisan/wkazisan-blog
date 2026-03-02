@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WKA ZISAN</title>
+    <description>Diploma Electrical Engineer from Bangladesh with practical experience in industrial maintenance, motor control systems, and automation.</description>
+    <link>https://blog.wkazisan.pro.bd/</link>
+    <atom:link href="https://blog.wkazisan.pro.bd/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 02 Mar 2026 19:37:53 +0000</pubDate>
+    <lastBuildDate>Mon, 02 Mar 2026 19:37:53 +0000</lastBuildDate>
+    <generator>Jekyll v4.4.1</generator>
+    
+  </channel>
+</rss>
