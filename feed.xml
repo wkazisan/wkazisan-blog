@@ -5,9 +5,83 @@
     <description>Diploma Electrical Engineer from Bangladesh with practical experience in industrial maintenance, motor control systems, and automation.</description>
     <link>https://blog.wkazisan.pro.bd/</link>
     <atom:link href="https://blog.wkazisan.pro.bd/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 02 Mar 2026 19:37:53 +0000</pubDate>
-    <lastBuildDate>Mon, 02 Mar 2026 19:37:53 +0000</lastBuildDate>
+    <pubDate>Sun, 05 Apr 2026 10:09:36 +0000</pubDate>
+    <lastBuildDate>Sun, 05 Apr 2026 10:09:36 +0000</lastBuildDate>
     <generator>Jekyll v4.4.1</generator>
+    
+      <item>
+        <title>Basic Motor Control System</title>
+        <description>&lt;h2 id=&quot;-introduction&quot;&gt;🔌 Introduction&lt;/h2&gt;
+&lt;p&gt;Motor control system হলো এমন একটি system যা দিয়ে electric motor চালু, বন্ধ এবং control করা হয়।&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;-motor-control-কী&quot;&gt;⚡ Motor Control কী?&lt;/h2&gt;
+&lt;p&gt;Motor control মানে:
+👉 Motor ON/OFF করা&lt;br /&gt;
+👉 Speed control করা&lt;br /&gt;
+👉 Protection দেওয়া&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;-common-motor-starters&quot;&gt;🔧 Common Motor Starters&lt;/h2&gt;
+
+&lt;h3 id=&quot;1-direct-online-dol-starter&quot;&gt;1. Direct Online (DOL) Starter&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;সরাসরি motor চালু করে&lt;/li&gt;
+  &lt;li&gt;ছোট motor এর জন্য ব্যবহার হয়&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;2-star-delta-starter&quot;&gt;2. Star-Delta Starter&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;বড় motor এর জন্য&lt;/li&gt;
+  &lt;li&gt;starting current কমায়&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;-example-real-life&quot;&gt;🔥 Example (Real Life)&lt;/h2&gt;
+&lt;p&gt;👉 Industrial factory-তে:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Water pump&lt;/li&gt;
+  &lt;li&gt;Fan motor&lt;/li&gt;
+  &lt;li&gt;Conveyor motor&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;️-safety-tips&quot;&gt;⚠️ Safety Tips&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Overload relay ব্যবহার করো&lt;/li&gt;
+  &lt;li&gt;Proper wiring check করো&lt;/li&gt;
+  &lt;li&gt;Earthing নিশ্চিত করো&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;-conclusion&quot;&gt;🚀 Conclusion&lt;/h2&gt;
+&lt;p&gt;Motor control system জানা থাকলে:
+👉 Industrial job পাওয়া সহজ&lt;br /&gt;
+👉 Practical skill strong হয়&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;👉 This is my first blog post 🚀&lt;/p&gt;
+</description>
+        <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
+        <link>https://blog.wkazisan.pro.bd/2026/04/05/motor-control/</link>
+        <guid isPermaLink="true">https://blog.wkazisan.pro.bd/2026/04/05/motor-control/</guid>
+        
+        <category>electrical</category>
+        
+        <category>motor</category>
+        
+        <category>starter</category>
+        
+        <category>diploma</category>
+        
+        
+      </item>
     
   </channel>
 </rss>
